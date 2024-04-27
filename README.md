@@ -22,3 +22,8 @@ ImgflipApi Simple App is an application written by considering MVVM architecture
 </table>
 
 https://github.com/Mehmetth/ImgflipApi-SwiftUI/assets/18207490/1e437ebb-e05a-4676-b81f-843c5fea59c4
+
+## Tech Stack
+- [Swift](https://developer.apple.com/swift/)
+- [SwiftUI](https://developer.apple.com/xcode/swiftui/)
+- [Alamofire](https://github.com/Alamofire/Alamofire)
